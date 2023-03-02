@@ -16,7 +16,7 @@ const getRecentStories= [
     
     {
       "_id": "5e84765d1fec5e000721d92c",
-      "heading": "new heding",
+      "heading": "new hedng",
       "images": [
         {
           "id": "1585739039893-0",
