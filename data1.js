@@ -23,7 +23,7 @@ const getRecentStories= [
           "img": "https://images.cricket.com/stories/1585739086649.jpg"
         },
         {
-          "id": "1585739039900-2",
+          "id": "15857390s39900-2",
           "img": "https://images.cricket.com/stories/1585739086654.jpg"
         },
         {
